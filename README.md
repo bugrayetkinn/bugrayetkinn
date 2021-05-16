@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/buğra-yetkin-055005190/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/124/124011.png?token=exp=1621156800~hmac=becc6509de52e5b422ab3164fdd5f460" alt="https://www.linkedin.com/in/buğra-yetkin-055005190/" height="40" width="40" /></a>
 <a href="https://instagram.com/bugrayetkinn" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621156875~hmac=f1c44bb2b2413014618bd1ad5d14eac1" alt="bugrayetkinn" height="40" width="40" /></a>
-<a href="https://medium.com/@bugrayetkinn" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/785/785314.png?token=exp=1621156928~hmac=2d013b22fbd239af82760c05460e44bf" alt="@bugrayetkinn" height="40" width="40" /></a>
+<a href="https://medium.com/@bugrayetkinn" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@bugrayetkinn" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
