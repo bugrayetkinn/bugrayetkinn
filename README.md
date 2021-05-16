@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/buğra-yetkin-055005190/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621156381~hmac=6100ef271e3ee1bf63a8422d9554250b" alt="https://www.linkedin.com/in/buğra-yetkin-055005190/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/buğra-yetkin-055005190/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/124/124011.png?token=exp=1621156800~hmac=becc6509de52e5b422ab3164fdd5f460" alt="https://www.linkedin.com/in/buğra-yetkin-055005190/" height="30" width="40" /></a>
 <a href="https://instagram.com/bugrayetkinn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="bugrayetkinn" height="30" width="40" /></a>
 <a href="https://medium.com/@bugrayetkinn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@bugrayetkinn" height="30" width="40" /></a>
 </p>
