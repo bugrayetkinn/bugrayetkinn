@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/buğra-yetkin-055005190/" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2201/PNG/512/linkedin_logo_square_icon_134016.png" height="40" width="40" /></a>
+<a href="https://twitter.com/bugrayetkin" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png" height="40" width="40" /></a>  
 <a href="https://medium.com/@bugrayetkinn" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@bugrayetkinn" height="40" width="40" /></a>
 </p>
 
